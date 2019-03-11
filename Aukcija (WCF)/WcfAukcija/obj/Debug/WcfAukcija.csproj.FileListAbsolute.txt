@@ -1,0 +1,21 @@
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\WcfAukcija\WcfAukcija\bin\WcfAukcija.dll.config
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\WcfAukcija\WcfAukcija\bin\WcfAukcija.dll
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\WcfAukcija\WcfAukcija\bin\WcfAukcija.pdb
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.csprojResolveAssemblyReference.cache
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.csproj.CoreCompileInputs.cache
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.dll
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.pdb
+G:\Fax\III\VI sem\Distribuirani sistemi\Lab vezbe\lab 4\WcfAukcija\WcfAukcija\bin\WcfAukcija.dll.config
+G:\Fax\III\VI sem\Distribuirani sistemi\Lab vezbe\lab 4\WcfAukcija\WcfAukcija\bin\WcfAukcija.dll
+G:\Fax\III\VI sem\Distribuirani sistemi\Lab vezbe\lab 4\WcfAukcija\WcfAukcija\bin\WcfAukcija.pdb
+G:\Fax\III\VI sem\Distribuirani sistemi\Lab vezbe\lab 4\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.csprojResolveAssemblyReference.cache
+G:\Fax\III\VI sem\Distribuirani sistemi\Lab vezbe\lab 4\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.csproj.CoreCompileInputs.cache
+G:\Fax\III\VI sem\Distribuirani sistemi\Lab vezbe\lab 4\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.dll
+G:\Fax\III\VI sem\Distribuirani sistemi\Lab vezbe\lab 4\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.pdb
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\Distribuirani\WcfAukcija\WcfAukcija\bin\WcfAukcija.dll.config
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\Distribuirani\WcfAukcija\WcfAukcija\bin\WcfAukcija.dll
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\Distribuirani\WcfAukcija\WcfAukcija\bin\WcfAukcija.pdb
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\Distribuirani\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.csprojAssemblyReference.cache
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\Distribuirani\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.csproj.CoreCompileInputs.cache
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\Distribuirani\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.dll
+C:\Users\rasicmihailo\Documents\Visual Studio 2017\Projects\Distribuirani\WcfAukcija\WcfAukcija\obj\Debug\WcfAukcija.pdb
